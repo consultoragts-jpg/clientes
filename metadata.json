@@ -1,0 +1,7 @@
+{
+  "name": "AgroCarbon - Sustainable Yields",
+  "description": "A comprehensive platform for monitoring agricultural environmental impact, carbon credits, and sustainability compliance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
